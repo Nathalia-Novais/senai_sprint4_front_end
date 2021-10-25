@@ -60,7 +60,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Clock  />
-       <Clock  />
+       <Clock />
       </header>
         
     </div>
